@@ -1,3 +1,5 @@
 This is a repo for my trials with using free templates!
+Check it out at https://karthik-rams.github.io/Info-display-site/
 
-Credits to HTML5 UP
+
+Inspired by HTML5 UP
