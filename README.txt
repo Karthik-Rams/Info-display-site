@@ -1,5 +1,4 @@
-This is a repo for my trials with using free templates!
+This repo contains the code for the simple single page front end site that I made and published using github pages
 Check it out at https://karthik-rams.github.io/Info-display-site/
 
-
-Inspired by HTML5 UP
+Template credits: HTML5 UP
